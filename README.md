@@ -1,1 +1,1 @@
-# Privat Project for solve LeetCode
+# Privat Project for solution LeetCode
